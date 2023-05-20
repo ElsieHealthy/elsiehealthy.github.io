@@ -41,4 +41,4 @@ Elsie reserves the right to update or revise this Privacy Policy at any time. We
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or the practices of the App, please contact us at [contact information].
+If you have any questions or concerns about this Privacy Policy or the practices of the App, please contact us at [elsie@damithg.dev](mailto:elsie@damithg.dev).
