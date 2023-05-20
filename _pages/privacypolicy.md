@@ -9,15 +9,13 @@ May 20 2023
 
 # Privacy Policy for Elsie Mobile Application
 
-_Effective Date: [Date]_
-
 ## 1. Introduction
 
 This Privacy Policy governs the manner in which Elsie ("we" or "our") collects, uses, maintains, and discloses information collected from users ("you" or "users") of the Elsie mobile application ("the App"). This policy applies to the App and all products and services offered by Elsie.
 
 ## 2. Information Collection
 
-We may collect personal identification information from users in various ways, including when users interact with the App, register an account, or provide information voluntarily. The types of personal information we may collect include [list types of information collected].
+We may collect personal identification information from users in various ways, including when users interact with the App, register an account, or provide information voluntarily. The types of personal information we may collect include age.
 
 ## 3. Information Use
 
@@ -33,7 +31,7 @@ The App may contain links to third-party websites or services that are not contr
 
 ## 6. Children's Privacy
 
-Protecting the privacy of children is important to us. The App is not intended for use by individuals under the age of [minimum age]. We do not knowingly collect personal information from children under [minimum age]. If you believe we have collected personal information from a child, please contact us immediately.
+Protecting the privacy of children is important to us. The App is not intended for use by individuals under the age of 16. We do not knowingly collect personal information from children under 16. If you believe we have collected personal information from a child, please contact us immediately.
 
 ## 7. Changes to this Privacy Policy
 
